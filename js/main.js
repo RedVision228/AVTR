@@ -9,7 +9,7 @@ $(function(){
             breakpoint: 361,
             settings:{
                 variableWidth: false,
-                slidesToShow: 1,
+                slidesToShow: 1
             }
         }]
         
