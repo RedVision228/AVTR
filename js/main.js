@@ -10,8 +10,6 @@ $(function(){
             settings:{
                 variableWidth: false,
                 slidesToShow: 1,
-                
-                arrows: false,
             }
         }]
         
