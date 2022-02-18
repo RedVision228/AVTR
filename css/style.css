@@ -91,7 +91,7 @@ button{
 }
 
 .header__content{
-    background-image: url(/images/header-bg.png);
+    background-image: url(../images/header-bg.png);
     background-repeat: no-repeat;
     min-height: calc(100vh - 100px);
     background-position: center;
